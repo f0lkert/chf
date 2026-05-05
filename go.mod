@@ -22,7 +22,7 @@ require (
 )
 
 require (
-	github.com/f0lkert/free5gc-fixup v1.0.2
+	github.com/f0lkert/free5gc-fixup v1.1.0
 	github.com/h2non/gock v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.21.0
