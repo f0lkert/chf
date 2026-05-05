@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	chf_context "github.com/free5gc/chf/internal/context"
-	"github.com/free5gc/chf/internal/logger"
+	chf_context "github.com/f0lkert/chf/internal/context"
+	"github.com/f0lkert/chf/internal/logger"
 	"github.com/free5gc/openapi/models"
 )
 

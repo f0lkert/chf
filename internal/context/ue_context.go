@@ -10,9 +10,9 @@ import (
 	"github.com/fiorix/go-diameter/diam/dict"
 	"github.com/fiorix/go-diameter/diam/sm"
 
-	charging_datatype "github.com/free5gc/chf/ccs_diameter/datatype"
-	"github.com/free5gc/chf/cdr/cdrType"
-	"github.com/free5gc/chf/pkg/factory"
+	charging_datatype "github.com/f0lkert/chf/ccs_diameter/datatype"
+	"github.com/f0lkert/chf/cdr/cdrType"
+	"github.com/f0lkert/chf/pkg/factory"
 )
 
 type ChfUe struct {

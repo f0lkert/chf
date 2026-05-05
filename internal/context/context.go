@@ -8,7 +8,7 @@ import (
 
 	"github.com/fiorix/go-diameter/diam/sm"
 
-	"github.com/free5gc/chf/internal/logger"
+	"github.com/f0lkert/chf/internal/logger"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/oauth"
 	"github.com/free5gc/util/idgenerator"

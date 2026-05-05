@@ -1,6 +1,6 @@
 package processor
 
-import "github.com/free5gc/chf/pkg/app"
+import "github.com/f0lkert/chf/pkg/app"
 
 type ProcessorChf interface {
 	app.App

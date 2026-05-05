@@ -22,9 +22,9 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/free5gc/chf/internal/logger"
-	"github.com/free5gc/chf/pkg/factory"
-	"github.com/free5gc/chf/pkg/service"
+	"github.com/f0lkert/chf/internal/logger"
+	"github.com/f0lkert/chf/pkg/factory"
+	"github.com/f0lkert/chf/pkg/service"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/version"
 )

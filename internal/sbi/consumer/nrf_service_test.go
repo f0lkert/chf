@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/mock/gomock"
 
-	chf_context "github.com/free5gc/chf/internal/context"
-	"github.com/free5gc/chf/pkg/app"
+	chf_context "github.com/f0lkert/chf/internal/context"
+	"github.com/f0lkert/chf/pkg/app"
 	"github.com/free5gc/openapi"
 )
 

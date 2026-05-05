@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/free5gc/chf/cdr/asn"
-	"github.com/free5gc/chf/cdr/cdrConvert"
-	"github.com/free5gc/chf/cdr/cdrFile"
-	"github.com/free5gc/chf/cdr/cdrType"
-	chf_context "github.com/free5gc/chf/internal/context"
-	"github.com/free5gc/chf/internal/logger"
+	"github.com/f0lkert/chf/cdr/asn"
+	"github.com/f0lkert/chf/cdr/cdrConvert"
+	"github.com/f0lkert/chf/cdr/cdrFile"
+	"github.com/f0lkert/chf/cdr/cdrType"
+	chf_context "github.com/f0lkert/chf/internal/context"
+	"github.com/f0lkert/chf/internal/logger"
 	"github.com/free5gc/openapi/models"
 )
 

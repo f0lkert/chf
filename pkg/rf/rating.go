@@ -32,10 +32,10 @@ import (
 	"github.com/fiorix/go-diameter/diam/sm"
 	"go.mongodb.org/mongo-driver/bson"
 
-	charging_datatype "github.com/free5gc/chf/ccs_diameter/datatype"
-	charging_dict "github.com/free5gc/chf/ccs_diameter/dict"
-	"github.com/free5gc/chf/internal/logger"
-	"github.com/free5gc/chf/pkg/factory"
+	charging_datatype "github.com/f0lkert/chf/ccs_diameter/datatype"
+	charging_dict "github.com/f0lkert/chf/ccs_diameter/dict"
+	"github.com/f0lkert/chf/internal/logger"
+	"github.com/f0lkert/chf/pkg/factory"
 	"github.com/free5gc/util/mongoapi"
 )
 

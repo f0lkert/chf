@@ -1,4 +1,4 @@
-module github.com/free5gc/chf
+module github.com/f0lkert/chf
 
 go 1.25.5
 

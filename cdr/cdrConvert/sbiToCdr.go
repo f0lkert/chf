@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/free5gc/chf/cdr/asn"
-	"github.com/free5gc/chf/cdr/cdrType"
+	"github.com/f0lkert/chf/cdr/asn"
+	"github.com/f0lkert/chf/cdr/cdrType"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/util/validator"
 )

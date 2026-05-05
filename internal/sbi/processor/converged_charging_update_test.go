@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/free5gc/chf/cdr/cdrType"
-	chf_context "github.com/free5gc/chf/internal/context"
+	"github.com/f0lkert/chf/cdr/cdrType"
+	chf_context "github.com/f0lkert/chf/internal/context"
 	"github.com/free5gc/openapi/models"
 )
 

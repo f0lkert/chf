@@ -11,7 +11,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	"gopkg.in/yaml.v2"
 
-	"github.com/free5gc/chf/internal/logger"
+	"github.com/f0lkert/chf/internal/logger"
 )
 
 var ChfConfig *Config

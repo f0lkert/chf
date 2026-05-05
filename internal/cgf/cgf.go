@@ -20,8 +20,8 @@ import (
 	ftpserver "github.com/fclairamb/ftpserverlib"
 	"github.com/jlaffaye/ftp"
 
-	"github.com/free5gc/chf/internal/logger"
-	"github.com/free5gc/chf/pkg/factory"
+	"github.com/f0lkert/chf/internal/logger"
+	"github.com/f0lkert/chf/pkg/factory"
 )
 
 type Cgf struct {

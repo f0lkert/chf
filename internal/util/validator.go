@@ -3,7 +3,7 @@ package util
 import (
 	"net/http"
 
-	"github.com/free5gc/chf/internal/logger"
+	"github.com/f0lkert/chf/internal/logger"
 	"github.com/free5gc/openapi/models"
 )
 
