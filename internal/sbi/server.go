@@ -19,7 +19,7 @@ import (
 	"github.com/f0lkert/chf/pkg/app"
 	"github.com/f0lkert/chf/pkg/factory"
 	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/util/httpwrapper"
+	"github.com/f0lkert/free5gc-fixup/httpwrapper"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/metrics"
 )
